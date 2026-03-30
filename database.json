@@ -4,13 +4,6 @@
     "password": "ARMUFA",
     "role": "owner",
     "expiredDate": "2300-01-11",
-    "lastSend": 1774866120365
-  },
-  {
-    "username": "VIP",
-    "password": "VIP",
-    "role": "vip",
-    "expiredDate": "2053-08-14",
-    "lastSend": 1774866338658
+    "lastSend": 1774866462723
   }
 ]
