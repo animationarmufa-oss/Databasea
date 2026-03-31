@@ -40,17 +40,6 @@
     "expiredDate": "2028-12-24"
   },
   {
-    "username": "ARMUFA",
-    "password": "ARMUFA",
-    "role": "member",
-    "expiredDate": "2053-08-15",
-    "createdBy": "Haiasuip",
-    "creatorRole": "tk",
-    "buyerOwner": "Haiasuip",
-    "createdAt": "2026-03-31T11:02:49.197Z",
-    "source": "telegram"
-  },
-  {
     "username": "ANTA",
     "password": "ANTA",
     "role": "owner",
