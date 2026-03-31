@@ -18,5 +18,11 @@
     "password": "Tara001",
     "role": "member",
     "expiredDate": "2053-08-15"
+  },
+  {
+    "username": "YANTO",
+    "password": "YANTO",
+    "role": "tk",
+    "expiredDate": "2028-12-24"
   }
 ]
