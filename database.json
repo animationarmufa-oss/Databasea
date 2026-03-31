@@ -60,5 +60,16 @@
     "buyerOwner": "GroupIB_Support_Arya",
     "createdAt": "2026-03-31T12:18:43.110Z",
     "source": "telegram"
+  },
+  {
+    "username": "SELLER",
+    "password": "SELLER",
+    "role": "seller",
+    "expiredDate": "2028-12-24",
+    "createdBy": "Haiasuip",
+    "creatorRole": "seller",
+    "buyerOwner": "Haiasuip",
+    "createdAt": "2026-03-31T12:20:19.154Z",
+    "source": "telegram"
   }
 ]
