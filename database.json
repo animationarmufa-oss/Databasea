@@ -32,17 +32,5 @@
     "role": "tk",
     "expiredDate": "2028-12-24",
     "lastSend": 1774952719577
-  },
-  {
-    "username": "ARMUFA",
-    "password": "ARMUFA",
-    "role": "developer",
-    "expiredDate": "2053-08-15",
-    "createdBy": "armufaganteng",
-    "creatorRole": "developer",
-    "buyerOwner": "armufaganteng",
-    "createdAt": "2026-03-31T12:55:13.468Z",
-    "source": "telegram",
-    "lastSend": 1774962200462
   }
 ]
