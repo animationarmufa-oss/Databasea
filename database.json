@@ -38,5 +38,11 @@
     "password": "ARTA",
     "role": "member",
     "expiredDate": "2028-12-24"
+  },
+  {
+    "username": "ARMUFA",
+    "password": "ARMUFA",
+    "role": "member",
+    "expiredDate": "2028-12-24"
   }
 ]
