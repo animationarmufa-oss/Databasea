@@ -51,17 +51,6 @@
     "source": "telegram"
   },
   {
-    "username": "SELLER",
-    "password": "SELLER",
-    "role": "seller",
-    "expiredDate": "2028-12-24",
-    "createdBy": "Haiasuip",
-    "creatorRole": "seller",
-    "buyerOwner": "Haiasuip",
-    "createdAt": "2026-03-31T12:20:19.154Z",
-    "source": "telegram"
-  },
-  {
     "username": "ARMUFA",
     "password": "ARMUFA",
     "role": "developer",
