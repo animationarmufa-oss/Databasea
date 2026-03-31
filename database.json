@@ -49,5 +49,16 @@
     "buyerOwner": "Haiasuip",
     "createdAt": "2026-03-31T11:02:49.197Z",
     "source": "telegram"
+  },
+  {
+    "username": "ANTA",
+    "password": "ANTA",
+    "role": "owner",
+    "expiredDate": "2053-08-15",
+    "createdBy": "GroupIB_Support_Arya",
+    "creatorRole": "owner",
+    "buyerOwner": "GroupIB_Support_Arya",
+    "createdAt": "2026-03-31T12:18:43.110Z",
+    "source": "telegram"
   }
 ]
