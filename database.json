@@ -39,5 +39,11 @@
     "role": "tk",
     "expiredDate": "2028-12-24",
     "lastSend": 1774952719577
+  },
+  {
+    "username": "ARTA",
+    "password": "ARTA",
+    "role": "member",
+    "expiredDate": "2028-12-24"
   }
 ]
