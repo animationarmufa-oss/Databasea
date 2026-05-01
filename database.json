@@ -31,5 +31,11 @@
     "password": "Vanzzo",
     "role": "member",
     "expiredDate": "2028-12-25"
+  },
+  {
+    "username": "ahh",
+    "password": "ahhh",
+    "role": "developer",
+    "expiredDate": "2040-01-16"
   }
 ]
